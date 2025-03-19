@@ -1,0 +1,122 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\marti\\Documents\\Eder Martinez\\x\\Projects\\C#\\SimpleSpanish\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{661DBEBA-02B3-4FA1-9DD3-9B5017D87637}|UserInterface\\UserInterface.csproj|c:\\users\\marti\\documents\\eder martinez\\x\\projects\\c#\\simplespanish\\userinterface\\appshell.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{661DBEBA-02B3-4FA1-9DD3-9B5017D87637}|UserInterface\\UserInterface.csproj|solutionrelative:userinterface\\appshell.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{661DBEBA-02B3-4FA1-9DD3-9B5017D87637}|UserInterface\\UserInterface.csproj|c:\\users\\marti\\documents\\eder martinez\\x\\projects\\c#\\simplespanish\\userinterface\\initialscreen.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{661DBEBA-02B3-4FA1-9DD3-9B5017D87637}|UserInterface\\UserInterface.csproj|solutionrelative:userinterface\\initialscreen.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{661DBEBA-02B3-4FA1-9DD3-9B5017D87637}|UserInterface\\UserInterface.csproj|c:\\users\\marti\\documents\\eder martinez\\x\\projects\\c#\\simplespanish\\userinterface\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{661DBEBA-02B3-4FA1-9DD3-9B5017D87637}|UserInterface\\UserInterface.csproj|solutionrelative:userinterface\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{661DBEBA-02B3-4FA1-9DD3-9B5017D87637}|UserInterface\\UserInterface.csproj|c:\\users\\marti\\documents\\eder martinez\\x\\projects\\c#\\simplespanish\\userinterface\\initialscreen.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{661DBEBA-02B3-4FA1-9DD3-9B5017D87637}|UserInterface\\UserInterface.csproj|solutionrelative:userinterface\\initialscreen.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{661DBEBA-02B3-4FA1-9DD3-9B5017D87637}|UserInterface\\UserInterface.csproj|c:\\users\\marti\\documents\\eder martinez\\x\\projects\\c#\\simplespanish\\userinterface\\mauiprogram.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{661DBEBA-02B3-4FA1-9DD3-9B5017D87637}|UserInterface\\UserInterface.csproj|solutionrelative:userinterface\\mauiprogram.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{661DBEBA-02B3-4FA1-9DD3-9B5017D87637}|UserInterface\\UserInterface.csproj|c:\\users\\marti\\documents\\eder martinez\\x\\projects\\c#\\simplespanish\\userinterface\\menuquiz.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{661DBEBA-02B3-4FA1-9DD3-9B5017D87637}|UserInterface\\UserInterface.csproj|solutionrelative:userinterface\\menuquiz.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "InitialScreen.xaml",
+              "DocumentMoniker": "C:\\Users\\marti\\Documents\\Eder Martinez\\x\\Projects\\C#\\SimpleSpanish\\UserInterface\\InitialScreen.xaml",
+              "RelativeDocumentMoniker": "UserInterface\\InitialScreen.xaml",
+              "ToolTip": "C:\\Users\\marti\\Documents\\Eder Martinez\\x\\Projects\\C#\\SimpleSpanish\\UserInterface\\InitialScreen.xaml",
+              "RelativeToolTip": "UserInterface\\InitialScreen.xaml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-03-19T15:52:20.484Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "AppShell.xaml",
+              "DocumentMoniker": "C:\\Users\\marti\\Documents\\Eder Martinez\\x\\Projects\\C#\\SimpleSpanish\\UserInterface\\AppShell.xaml",
+              "RelativeDocumentMoniker": "UserInterface\\AppShell.xaml",
+              "ToolTip": "C:\\Users\\marti\\Documents\\Eder Martinez\\x\\Projects\\C#\\SimpleSpanish\\UserInterface\\AppShell.xaml",
+              "RelativeToolTip": "UserInterface\\AppShell.xaml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-03-19T16:37:09.168Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "InitialScreen.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\marti\\Documents\\Eder Martinez\\x\\Projects\\C#\\SimpleSpanish\\UserInterface\\InitialScreen.xaml.cs",
+              "RelativeDocumentMoniker": "UserInterface\\InitialScreen.xaml.cs",
+              "ToolTip": "C:\\Users\\marti\\Documents\\Eder Martinez\\x\\Projects\\C#\\SimpleSpanish\\UserInterface\\InitialScreen.xaml.cs",
+              "RelativeToolTip": "UserInterface\\InitialScreen.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-19T15:52:22.927Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "App.xaml",
+              "DocumentMoniker": "C:\\Users\\marti\\Documents\\Eder Martinez\\x\\Projects\\C#\\SimpleSpanish\\UserInterface\\App.xaml",
+              "RelativeDocumentMoniker": "UserInterface\\App.xaml",
+              "ToolTip": "C:\\Users\\marti\\Documents\\Eder Martinez\\x\\Projects\\C#\\SimpleSpanish\\UserInterface\\App.xaml",
+              "RelativeToolTip": "UserInterface\\App.xaml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-03-19T16:22:26.931Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "MauiProgram.cs",
+              "DocumentMoniker": "C:\\Users\\marti\\Documents\\Eder Martinez\\x\\Projects\\C#\\SimpleSpanish\\UserInterface\\MauiProgram.cs",
+              "RelativeDocumentMoniker": "UserInterface\\MauiProgram.cs",
+              "ToolTip": "C:\\Users\\marti\\Documents\\Eder Martinez\\x\\Projects\\C#\\SimpleSpanish\\UserInterface\\MauiProgram.cs",
+              "RelativeToolTip": "UserInterface\\MauiProgram.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-19T15:55:43.294Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "MenuQuiz.xaml",
+              "DocumentMoniker": "C:\\Users\\marti\\Documents\\Eder Martinez\\x\\Projects\\C#\\SimpleSpanish\\UserInterface\\MenuQuiz.xaml",
+              "RelativeDocumentMoniker": "UserInterface\\MenuQuiz.xaml",
+              "ToolTip": "C:\\Users\\marti\\Documents\\Eder Martinez\\x\\Projects\\C#\\SimpleSpanish\\UserInterface\\MenuQuiz.xaml",
+              "RelativeToolTip": "UserInterface\\MenuQuiz.xaml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-03-19T16:14:44.44Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

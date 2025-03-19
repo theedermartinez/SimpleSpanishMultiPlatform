@@ -1,0 +1,1 @@
+C:\Users\marti\Documents\Eder Martinez\x\Projects\C#\SimpleSpanish\UserInterface\UserInterface.csproj;x64

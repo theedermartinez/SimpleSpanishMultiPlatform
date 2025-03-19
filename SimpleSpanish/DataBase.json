@@ -1,0 +1,18 @@
+﻿[ //outter most is an array
+
+  { //object 1
+    "ID": 0,
+    "Title": "Greetings",
+    "Lesson": "This is a lesson",
+    "Questions": [ "How do you say \"Hello\" in spanish", "How do you say \"how are you\"in spanish" ],
+    "Options": [
+      [ "si", "No", "Hola", "Taco" ],
+      [ "Como estas", "Mak", "Si", "No" ]
+    ],
+    "High Score": 0
+  }
+
+
+
+
+]
